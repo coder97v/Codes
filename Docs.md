@@ -29,4 +29,4 @@ end)
 here are the list for the icons
 
 <p>dialog</p>
-![dialog](https://raw.githubusercontent.com/your-username/your-repo-name/branch-name/path-to-image/image-name.png)
+![dialog](https://raw.githubusercontent.com/coder97v/Codes/refs/heads/main/Icons/dialog.png)
